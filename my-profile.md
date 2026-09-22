@@ -5,6 +5,7 @@
 * **桌球**
 * 撞球
 * PLC
+* 工業配線
 * 音樂
 
 *Building a better version, quietly.*
